@@ -1,10 +1,10 @@
 # Описание
-Api для проекта yatube
+Api для проекта yatube<br>
 Позволяет обращаться к базе и получать ответ в формате JSON
 # Установка
 1. Склонировать репозиторий и перейти в папку с проектом командами :
  ```
- git clone git@github.com:Jloogle/api_yatube.git
+ git clone git@github.com:Jloogle/api_final_yatube.git
  ```
 2. Установить виртуальное окружение и активировать его:
 ```
